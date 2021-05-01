@@ -1,0 +1,100 @@
+{
+  "name": "PlasmaDonor",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://JPRMohnish.github.io/PlasmaDonor",
+  "dependencies": {
+    "@types/googlemaps": "3.39.6",
+    "@types/markerclustererplus": "2.1.33",
+    "@types/react": "16.9.35",
+    "ajv": "6.12.2",
+    "axios": "^0.21.1",
+    "bootstrap": "4.5.0",
+    "brace": "^0.11.1",
+    "chart.js": "2.9.3",
+    "classnames": "2.2.6",
+    "history": "4.10.1",
+    "jquery": "3.5.1",
+    "local-storage": "^2.0.0",
+    "match-sorter": "4.1.0",
+    "mic-recorder-to-mp3": "^2.2.2",
+    "moment": "2.26.0",
+    "node-sass": "4.14.1",
+    "nouislider": "14.5.0",
+    "perfect-scrollbar": "1.5.0",
+    "prop-types": "15.7.2",
+    "pure-react-carousel": "^1.27.6",
+    "react": "16.13.1",
+    "react-ace": "^9.3.0",
+    "react-big-calendar": "0.25.0",
+    "react-bootstrap": "^1.5.2",
+    "react-bootstrap-sweetalert": "5.1.11",
+    "react-bootstrap-switch": "15.5.3",
+    "react-bootstrap-wizard": "0.0.7",
+    "react-chartjs-2": "2.9.0",
+    "react-countdown": "^2.3.1",
+    "react-countdown-circle-timer": "^2.5.1",
+    "react-datetime": "2.16.3",
+    "react-dom": "16.13.1",
+    "react-google-maps": "9.4.5",
+    "react-jvectormap": "0.0.16",
+    "react-leaderboard": "0.0.3",
+    "react-markdown": "^5.0.3",
+    "react-notification-alert": "0.0.12",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-scrollbar": "^0.5.6",
+    "react-select": "3.1.0",
+    "react-spinkit": "^3.0.0",
+    "react-split-pane": "^0.1.92",
+    "react-syntax-highlighter": "^15.4.3",
+    "react-table": "7.1.0",
+    "react-tagsinput": "3.19.0",
+    "react-voice-recorder": "^2.0.7",
+    "reactstrap": "8.4.1",
+    "reactstrap-md-textarea": "^3.0.1",
+    "remark-gfm": "^1.0.0",
+    "typescript": "3.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/**/*.js src/**/*.jsx",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "rules": {
+      "semi": 0,
+      "no-console": 0
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-only-warn": "^1.0.2",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.22.0",
+    "gh-pages": "^3.1.0"
+  }
+}

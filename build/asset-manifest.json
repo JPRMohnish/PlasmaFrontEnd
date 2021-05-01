@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PlasmaDonor/static/css/main.42010d49.chunk.css",
+    "main.js": "/PlasmaDonor/static/js/main.2826247a.chunk.js",
+    "main.js.map": "/PlasmaDonor/static/js/main.2826247a.chunk.js.map",
+    "runtime-main.js": "/PlasmaDonor/static/js/runtime-main.4cb3193b.js",
+    "runtime-main.js.map": "/PlasmaDonor/static/js/runtime-main.4cb3193b.js.map",
+    "static/css/2.c8df05e9.chunk.css": "/PlasmaDonor/static/css/2.c8df05e9.chunk.css",
+    "static/js/2.38641d78.chunk.js": "/PlasmaDonor/static/js/2.38641d78.chunk.js",
+    "static/js/2.38641d78.chunk.js.map": "/PlasmaDonor/static/js/2.38641d78.chunk.js.map",
+    "index.html": "/PlasmaDonor/index.html",
+    "precache-manifest.0c46b4ec7239a9fbc8f483c4672628b5.js": "/PlasmaDonor/precache-manifest.0c46b4ec7239a9fbc8f483c4672628b5.js",
+    "service-worker.js": "/PlasmaDonor/service-worker.js",
+    "static/css/2.c8df05e9.chunk.css.map": "/PlasmaDonor/static/css/2.c8df05e9.chunk.css.map",
+    "static/css/main.42010d49.chunk.css.map": "/PlasmaDonor/static/css/main.42010d49.chunk.css.map",
+    "static/js/2.38641d78.chunk.js.LICENSE.txt": "/PlasmaDonor/static/js/2.38641d78.chunk.js.LICENSE.txt",
+    "static/media/ayo-ogunseinde-2.jpg": "/PlasmaDonor/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/paper-dashboard.scss?v=1.2.0": "/PlasmaDonor/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/react-logo.png": "/PlasmaDonor/static/media/react-logo.79075919.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cb3193b.js",
+    "static/css/2.c8df05e9.chunk.css",
+    "static/js/2.38641d78.chunk.js",
+    "static/css/main.42010d49.chunk.css",
+    "static/js/main.2826247a.chunk.js"
+  ]
+}
